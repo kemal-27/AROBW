@@ -5,7 +5,7 @@ require('phpfpdf/fpdf.php');
 $db_host='localhost';
 $db_database='raport';
 $db_username='root';
-$db_password='';
+$db_password='palembang27';
 
  session_start();
 
